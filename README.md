@@ -52,6 +52,10 @@ Inspired by real-world breaches:
 - Verified tokens with **issuer**, **audience**, and **expiry**
 
 ---
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/819a2954-02c2-44f6-a6e9-c3184a0ce27a" />
+
+
+
 
 ## Deliverables
 
